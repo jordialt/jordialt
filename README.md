@@ -1,62 +1,55 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/Q8OPrlvICzjajupr2T/giphy.gif" width="100px"/>
+# Hi, I'm Jordi! 👋
 
-  # Hi, I'm Jordi! 👋
-  
-  **Robotic Intelligence Student | AI Enthusiast | C++ & Python Developer**
-  
-  <a href="https://github.com/jordialt">
-    <img src="https://komarev.com/ghpvc/?username=jordialt&style=flat-square&color=blueviolet" alt="Profile Views" />
-  </a>
-</div>
+**Robotic Intelligence Student | AI & Big Data Enthusiast**
+
+I am a student specializing in **Robotic Intelligence**, bridging the gap between physical hardware control, deep learning, and large-scale data processing. My objective is to design systems that are not only automated but intelligent, connected, and data-driven.
 
 ---
 
-### 👨‍💻 About Me
+### 🔭 Academic Focus & Competencies
 
-I am a student specializing in **Robotic Intelligence**, bridging the gap between hardware and software. My work focuses on making machines smarter, safer, and more collaborative.
+I have built a diverse skillset ranging from low-level circuit design to cloud AI pipelines:
 
-I have strong foundations in **Artificial Intelligence, Machine Learning, and Embedded Systems**.
-
-| **🧠 AI & Data** | **🤖 Robotics & Control** | **Hz Embedded & IoT** |
+| **🤖 Robotics & Control** | **🧠 AI & Deep Learning** | **☁️ Big Data & IoT** |
 |:--- |:--- |:--- |
-| • Machine Learning<br>• Big Data Analytics<br>• Computer Vision | • Collaborative Robots (Cobots)<br>• Robotic Manipulation<br>• Human-Machine Interfaces (HMI) | • Real-Time Systems<br>• IoT & Sensor Networks<br>• Digital Systems Design |
+| • **ROS 2** for Cooperative Robots<br>• Collaborative Manipulation<br>• **MATLAB** for Automatic Control | • **TensorFlow** & **PyTorch**<br>• Machine Learning (**Scikit-learn**)<br>• Computer Vision | • Cloud Architecture (**AWS**)<br>• Big Data ETL (**PySpark**, **Hadoop**)<br>• Sensor Networks (**Particle**) |
 
 ---
 
-### 🛠 Tech Stack
+### 🛠 Languages & Technologies
 
-**Languages**
+**Core Languages**
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-%23D04000.svg?style=for-the-badge&logo=mathworks&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog-%23F7DF1E.svg?style=for-the-badge&logo=intel&logoColor=black)
 
-**Robotics & AI Tools**
-![ROS](https://img.shields.io/badge/ROS-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
+**Robotics & AI**
+![ROS2](https://img.shields.io/badge/ros2-%2322314E.svg?style=for-the-badge&logo=ros&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Scikit-Image](https://img.shields.io/badge/scikit--image-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+
+**Big Data & IoT**
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-%23E25A1C.svg?style=for-the-badge&logo=apache-spark&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-%2366CCFF.svg?style=for-the-badge&logo=apache-hadoop&logoColor=black)
+![Particle](https://img.shields.io/badge/Particle-%2300C3E3.svg?style=for-the-badge&logo=particle&logoColor=white)
 
 ---
 
-### 🎧 Listening Now
-<div align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=jordialtf4&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=jordialtf4&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="Spotify Playing Now" />
-  </a>
-</div>
+### 📂 Featured Coursework
+
+- **Cooperative Robots:** Developed navigation nodes for multi-robot systems using **ROS 2** (C++/Python).
+- **Machine Learning & AI:** Built neural networks and predictive models using **TensorFlow** and **PyTorch**; applied **Scikit-Learn** for data analysis.
+- **Big Data & IoT:** Processed sensor streams using **PySpark** and **Hadoop**, integrating edge devices via **Particle** and **AWS**.
+- **Digital Systems Design:** Designed and simulated hardware logic circuits using **Verilog**.
+- **Advanced Automatic Systems:** Modeled complex control loops and system dynamics using **MATLAB**.
 
 ---
 
-### 📈 Engineering Metrics
+### 📫 Connect with me
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jordialt&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="jordialt's stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jordialt&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
-</div>
-
----
-
-### 📫 Connect
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/YOUR_LINKEDIN_URL)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jordi-altarejos-bono)
+[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/jordialt)
