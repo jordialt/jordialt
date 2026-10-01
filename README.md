@@ -1,4 +1,4 @@
-# Hi, I'm Jordi Altarejos Bono 👋
+# Hi, I'm Jordi Altarejos👋
 
 🎓 **Robotic Intelligence Graduate** (Universitat Jaume I, Spain)  
 🤖 **Former Machine Learning Intern** @ Digiole Oy (Helsinki, Finland)  
